@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "ds1307.ts",
-        "_locales/zh/ds1307-strings.json"
+        "_locales/zh/ds1307-strings.json",
+        "_locales/zh-tw/ds1307-strings.json"
     ],
     "testFiles": [
         "tests.ts"
